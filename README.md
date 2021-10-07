@@ -4,6 +4,7 @@
 <img src=LSY.jpg height=300 width=300>
 
 **이승연**   
+**2000.11.06**   
 *SEUNGYEONLEE*    
 
 ---
@@ -26,13 +27,15 @@
 2. Python
 3. R언어
 4. C언어
+5. SQL
 
 ---
 ## 활동사항
 
 * 모두의연구소-SQL수료
 
-<img src=모두연.PNG height=100 width=200>
+<img src=모두연.png height=100 width=250>   
+
 * 금융보안원/금융데이터거래소 주최- 2021 금융데이터 경진대회 공모전 참가
 
 <img src=경진대회.PNG height=200 width=200>
