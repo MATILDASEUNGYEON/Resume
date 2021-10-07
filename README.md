@@ -1,4 +1,4 @@
-# 이력서
+# Resume
 ---
 
 <img src=LSY.jpg height=300 width=300>
@@ -32,6 +32,9 @@
 ---
 ## 활동사항
 
+* 부스트코스 - Python 교육   
+<img src=boostcourse.png height=100 width=250>
+
 * 모두의연구소-SQL수료
 
 <img src=모두연.png height=100 width=250>   
@@ -39,6 +42,7 @@
 * 금융보안원/금융데이터거래소 주최- 2021 금융데이터 경진대회 공모전 참가
 
 <img src=경진대회.PNG height=200 width=200>
+
 
 ---
 ## 학력사항
