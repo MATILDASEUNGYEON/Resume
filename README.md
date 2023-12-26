@@ -8,6 +8,15 @@
 *SEUNGYEONLEE*    
 
 ---
+# About Me.
+
+|                      |                     |                        |
+|----------------------|---------------------|------------------------|
+| <img src="증명사진.jpg" width="150" height="200" style="margin-left: auto; margin-right: auto; display: block;"> | name(ko.)           | 이승연                  |
+|                      | name(en.)           | *Seung Yeon Lee*       |
+|                      | Birth               | _2000.11.06_           |
+
+---
 >대학교: Hallym Univ.  
 >소속: 정보과학대학   
 >>주전공: 빅데이터전공   
