@@ -1,7 +1,7 @@
 # Resume
 ---
 
-<img src=증명사진.jpg height=300 width=250>
+<img src=증명사진.jpg width=350 height=450>
 
 **이승연**   
 **2000.11.06**   
