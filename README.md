@@ -1,20 +1,23 @@
-# Resume
+# Résumé
 ---
-
-<img src=증명사진.jpg width=350 height=450>
-
-**이승연**   
-**2000.11.06**   
-*SEUNGYEONLEE*    
-
----
-# About Me.
-
-|                      |                     |                        |
-|----------------------|---------------------|------------------------|
-| <img src="증명사진.jpg" width="150" height="200" style="margin-left: auto; margin-right: auto; display: block;"> | name(ko.)           | 이승연                  |
-|                      | name(en.)           | *Seung Yeon Lee*       |
-|                      | Birth               | _2000.11.06_           |
+<table border="1" width="400">
+    <tr>
+        <th colspan="3">About Me.</th>
+    </tr>
+    <tr>
+        <td rowspan="3"><img src="증명사진.jpg" width="150" height="200" style="margin-left: auto; margin-right: auto; display: block;"></td>
+        <td>name(ko.)</td>
+        <td style="text-align: center;">이승연</td>
+    </tr>
+    <tr>
+        <td>name(en.)</td>
+        <td style="text-align: center;"><em>Seung Yeon Lee</em></td>
+    </tr>
+    <tr>
+        <td>Birth</td>
+        <td style="text-align: center;"><i>2000.11.06</i></td>
+    </tr>
+</table>
 
 ---
 >대학교: Hallym Univ.  
